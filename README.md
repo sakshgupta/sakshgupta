@@ -2,18 +2,52 @@
 <h1 align="center"><b>Hi , I'm Saksham Gupta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=[_theName == “Saksham Gupta”]++;Full-Stack+Developer,;Computer+Science+Student,;Coffee+Lover..&hearts;,;Love+to+learn+and+code+new+stuffs..<3"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F26C4F&center=true&width=435&lines=%5B_theName+%3D%3D+%E2%80%9CSaksham+Gupta%E2%80%9D%5D;Full-Stack+Developer;Computer+Science+Student;Coffee+Lover..&hearts;;Love+to+learn+new+stuffs" alt="Typing SVG" /></a>
 </p>
 
 
 <br>
 
+<div align='center'>
+
+<!-- Linkedin -->
+<a href="https://linkedin.com/in/sakshguptavit" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  sakshguptavit-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<br>
+
+<!-- portfolio -->
+<a href="https://sakshgupta.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/portfolio: sakshamgupta.vercel.app-%23F26C4F.svg?style=for-the-badge&logo=personio&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+
+<br>
+
+<!-- instagram -->
+<a href="https://instagram.com/saksh_the_lazy_lad" target="_blank">
+<img src="https://img.shields.io/badge/Instagram:  saksh_the_lazy_lad-%2300acee.svg?color=f1006b&style=for-the-badge&logo=Instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+</a>
+
+<br>
+
+<!-- gmail -->
+<a href="mailto:sakshamgupta.dev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  sakshamgupta.dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+<br>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+# <picture><img src="https://i.ibb.co/m6NgGdV/about-me.gif" alt="about-me" border="0" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -41,7 +75,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -56,43 +90,10 @@
 
 <br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/sakshguptavit" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  sakshguptavit-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
 
 <br>
 
-<li>
-<a href="https://instagram.com/saksh_the_lazy_lad" target="_blank">
-<img src="https://img.shields.io/badge/Instagram:  saksh_the_lazy_lad-%2300acee.svg?color=f1006b&style=for-the-badge&logo=Instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:sakshamgupta.dev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  sakshamgupta.dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-
-## 😂 Random Dev Meme
+# 😂 Random Dev Meme
 <div align='center'>
 
 <img src="https://rm.up.railway.app/" width="512px"/>
@@ -104,8 +105,3 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!---
-Saksham20BCE10288/Saksham20BCE10288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
