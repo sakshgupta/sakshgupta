@@ -1,10 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Saksham Gupta </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F26C4F&center=true&width=435&lines=%5B_theName+%3D%3D+%E2%80%9CSaksham+Gupta%E2%80%9D%5D;Full-Stack+Developer;Computer+Science+Student;Coffee+Lover..&hearts;;Love+to+learn+new+stuffs" alt="Typing SVG" /></a>
-</p>
-
 
 <br>
 
@@ -87,27 +83,6 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-
-# 🐍 **Contribution Graph**
-
-
-<br>
-
-![snake gif](https://github.com/sakshgupta/sakshgupta/blob/output/github-contribution-grid-snake.gif)
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-# 😂 Random Dev Meme
-<div align='center'>
-
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 </div>
 <br>
